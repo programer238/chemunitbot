@@ -3,5 +3,5 @@ services:
     name: chemunitbot
     env: python
     buildCommand: ""
-    startCommand: python chemunitbot.py
+    startCommand: python ChemUnitBot.py
     autoDeploy: true
